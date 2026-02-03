@@ -7,3 +7,4 @@ class Solution:
         reversed_s = s[::-1]
 
         return s == reversed_s
+
